@@ -1,0 +1,144 @@
+@charset "UTF-8";
+.bg-testimonials_logo_1 {
+  width: 165px;
+  height: 43px;
+  background: url('../img/css_sprites.png') -10px -220px;
+}
+
+.bg-testimonials_logo_2 {
+  width: 148px;
+  height: 50px;
+  background: url('../img/css_sprites.png') -270px -10px;
+}
+
+.bg-testimonials_logo_3 {
+  width: 64px;
+  height: 64px;
+  background: url('../img/css_sprites.png') -101px -383px;
+}
+
+.bg-testimonials_logo_4 {
+  width: 225px;
+  height: 24px;
+  background: url('../img/css_sprites.png') -120px -283px;
+}
+
+.bg-testimonials_logo_5 {
+  width: 166px;
+  height: 34px;
+  background: url('../img/css_sprites.png') -120px -327px;
+}
+
+.bg-testimonials_logo_6 {
+  width: 108px;
+  height: 34px;
+  background: url('../img/css_sprites.png') -270px -164px;
+}
+
+.bg-top_cross {
+  width: 35px;
+  height: 35px;
+  background: url('../img/css_sprites.png') -390px -156px;
+}
+
+.bg-top_sandwich {
+  width: 46px;
+  height: 41px;
+  background: url('../img/css_sprites.png') -358px -210px;
+}
+
+/* .bg-top_social_facebook_purple {
+  width: 26px;
+  height: 48px;
+  background: url('../img/css_sprites.png') -231px -383px;
+}
+
+.bg-top_social_facebook_white {
+  width: 26px;
+  height: 48px;
+  background: url('../img/css_sprites.png') -185px -383px;
+}
+
+.bg-top_social_github_purple {
+  width: 48px;
+  height: 48px;
+  background: url('../img/css_sprites.png') -438px -182px;
+}
+
+.bg-top_social_github_white {
+  width: 48px;
+  height: 48px;
+  background: url('../img/css_sprites.png') -438px -114px;
+}
+
+.bg-top_social_twitter_purple {
+  width: 48px;
+  height: 38px;
+  background: url('../img/css_sprites.png') -438px -308px;
+}
+
+.bg-top_social_twitter_white {
+  width: 48px;
+  height: 38px;
+  background: url('../img/css_sprites.png') -438px -250px;
+} */
+
+.bg-features_icon_1 {
+  width: 111px;
+  height: 64px;
+  background: url('../img/css_sprites.png') -270px -80px;
+}
+
+.bg-features_icon_2 {
+  width: 90px;
+  height: 80px;
+  background: url('../img/css_sprites.png') -10px -283px;
+}
+
+.bg-features_icon_3 {
+  width: 60px;
+  height: 84px;
+  background: url('../img/css_sprites.png') -438px -10px;
+}
+
+.bg-features_icon_4 {
+  width: 71px;
+  height: 71px;
+  background: url('../img/css_sprites.png') -10px -383px;
+}
+
+.bg-logo {
+  width: 153px;
+  height: 41px;
+  background: url('../img/css_sprites.png') -195px -220px;
+}
+
+.bg-social_arrow_L {
+  width: 9px;
+  height: 16px;
+  background: url('../img/css_sprites.png') -401px -80px;
+}
+
+.bg-social_arrow_R {
+  width: 9px;
+  height: 16px;
+  background: url('../img/css_sprites.png') -401px -116px;
+}
+
+.bg-social_button_facebook {
+  width: 240px;
+  height: 50px;
+  background: url('../img/css_sprites.png') -10px -150px;
+}
+
+.bg-social_button_github {
+  width: 240px;
+  height: 50px;
+  background: url('../img/css_sprites.png') -10px -80px;
+}
+
+.bg-social_button_twitter {
+  width: 240px;
+  height: 50px;
+  background: url('../img/css_sprites.png') -10px -10px;
+}

@@ -1,0 +1,80 @@
+@charset "UTF-8";
+@font-face {
+  font-family: 'Montserrat';
+  src: url('../fonts/montserrat-regular-webfont.eot');
+  /* IE9 Compat Modes */
+  src: url('../fonts/montserrat-regular-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/montserrat-regular-webfont.woff2') format('woff2'), /* Modern Browsers */
+  url('../fonts/montserrat-regular-webfont.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/montserrat-regular-webfont.ttf') format('truetype');
+  /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/Lato-Regular.eot');
+  /* IE9 Compat Modes */
+  src: url('../fonts/Lato-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/Lato-Regular.woff2') format('woff2'), /* Modern Browsers */
+  url('../fonts/Lato-Regular.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/Lato-Regular.ttf') format('truetype');
+  /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  src: url('../fonts/SourceSansPro-Regular.eot');
+  /* IE9 Compat Modes */
+  src: url('../fonts/SourceSansPro-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/SourceSansPro-Regular.ttf.woff2') format('woff2'), /* Modern Browsers */
+  url('../fonts/SourceSansPro-Regular.otf.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/SourceSansPro-Regular.ttf') format('truetype');
+  /* Safari, Android, iOS */
+}
+
+body, button, dd, dl, dt, fieldset, form, h1, h2, h3, h4, h5, h6, input, legend, li, ol, p, select, table, td, textarea, th, ul {
+  margin: 0;
+  padding: 0;
+}
+
+body, button, input, select, table, textarea {
+  font-size: 14px;
+  font-family: Montserrat, Dotum, '돋움', Helvetica, "Apple SD Gothic Neo", sans-serif;
+}
+
+html, body {
+  overflow-x: hidden;
+}
+
+body {
+  background: #fff;
+  min-width: 480px;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img, button, input {
+  border: 0;
+  outline: 0;
+  vertical-align: top;
+}
+
+button {
+  cursor: pointer;
+  cursor: hand;
+}
+
+.blind {
+  position: absolute;
+  clip: rect(0 0 0 0);
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+}
