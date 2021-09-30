@@ -1,5 +1,8 @@
 # forkio
 
+- 개발 100%
+- 디자인 0%
+
 ### 1. PC 크기
 
 ![yeaeun23 github io_forkio_](https://user-images.githubusercontent.com/14077108/135464254-a812bbaa-a5de-44a1-bcf1-77285701be11.png)
