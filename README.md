@@ -5,10 +5,10 @@
 
 ## 화면 예시
 
-### - for PC
+* <b>for PC</b>
 
 ![yeaeun23 github io_forkio_](https://user-images.githubusercontent.com/14077108/135464254-a812bbaa-a5de-44a1-bcf1-77285701be11.png)
 
-### * for Mobile
+* <b>for Mobile</b>
 
-![제목 없음-1](https://user-images.githubusercontent.com/14077108/135553450-7db62c9e-41d8-4fea-9724-c3cc2af2e2cd.png)
+![제목 없음-2](https://user-images.githubusercontent.com/14077108/135566524-7bcbe6c0-d95c-415f-b121-0a2b91c47f0a.png)
